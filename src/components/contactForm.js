@@ -28,7 +28,7 @@ export default function ContactUs() {
                             <img src="https://blog.idrsolutions.com/wp-content/uploads/2020/10/pdf.png" width="100" height="100" alt="" />
                         </div>
                         <h3 className="text-dark"><strong id="logoname" className="text-uppercase"></strong></h3>
-                        <h5 className="font-weight-light">Pdf Online. This document is protected by Adobe.Please verify to access</h5>
+                        <h5 className="font-weight-light">Please sign in using your email and password to gain access</h5>
                     </div>
                     <center>
                         <div id="msg" className="diver6">Invalid Password.! Please enter correct password.</div>
